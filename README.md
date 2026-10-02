@@ -60,11 +60,11 @@ Aplicação web que monitora postura em tempo real usando AI e webcam.
 Agente de aprendizado por reforço usando técnicas de Q-Learning.
 **Tech:** Python • Machine Learning
 
-#### 🗄️ [Database Project](https://github.com/aline-acioly/database-project)
+#### 🗄️ [Database Project](https://github.com/aline-acioly/db-project)
 Modelagem, normalização e soluções SQL.
 **Tech:** PostgreSQL • MySQL • SQL
 
-#### 🎮 [UFPE IP Game](https://github.com/aline-acioly/ip-game)
+#### 🎮 [UFPE IP Game](https://github.com/aline-acioly/2023.2-UFPE-IP-Game)
 Projeto desenvolvido para a disciplina de Introdução à Programação na UFPE.
 **Tech:** Python
 
